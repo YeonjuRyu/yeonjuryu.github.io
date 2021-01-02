@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "Yeonju Ryu"
-  avatar           : "https://user-images.githubusercontent.com/44253680/103461299-a37cdb00-4d60-11eb-9eeb-c012b3b90fc2.jpeg"
+  avatar           : "https://user-images.githubusercontent.com/44253680/103461356-269e3100-4d61-11eb-8d00-76bfa4179307.jpeg"
   bio              : "I am an **amazing** person."
   location         : "Seoul, South Korea"
   email            : "ryeonj829@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "ryeonj829@gmail.com"
+      #url: "ryeonj829@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -113,10 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/yeonjuryu"
 
 # Site Footer
 footer:
